@@ -25,11 +25,11 @@ SECRET_KEY = 'django-insecure-2f4wg+74#-0k=ab7mg&8#-$8+s388&9bxdy)q-9cft#ku@mums
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://photolynk.onrender.com']
+# ALLOWED_HOSTS = ['https://photolynk.onrender.com']
 # ALLOWED_HOSTS = ['.onrender.com']
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 
 
